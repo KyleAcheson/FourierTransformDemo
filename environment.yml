@@ -1,0 +1,8 @@
+name: Visualizing Fourier Transforms
+dependencies:
+  - python = 3.8.6
+  - numpy
+  - scipy
+  - librosa
+  - matplotlib
+  - Ipython
