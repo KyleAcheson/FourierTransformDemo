@@ -2,8 +2,10 @@
 
 For Public Engagement use.
 
-### Run Through Binder - Click the Badge Below:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KyleAcheson/FourierTransformDemo/main?urlpath=https%3A%2F%2Fgithub.com%2FKyleAcheson%2FFourierTransformDemo%2Fblob%2Fmain%2FSoundWave_FFT.ipynb)
+### Run Through Binder - Click the Badge Below or Copy the Link:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KyleAcheson/FourierTransformDemo/main?filepath=SoundWave_FFT.ipynb)
+
+https://mybinder.org/v2/gh/KyleAcheson/FourierTransformDemo/main?filepath=SoundWave_FFT.ipynb
 
 It may take a few minutes to load the notebook through Binder.
 
