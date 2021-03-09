@@ -6,9 +6,13 @@ For Public Engagement use.
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KyleAcheson/FourierTransformDemo/main?filepath=https%3A%2F%2Fgithub.com%2FKyleAcheson%2FFourierTransformDemo%2Fblob%2Fmain%2FSoundWave_FFT.ipynb)
 
 It may take a few minutes to load the notebook through Binder.
+
 If you do not see a loaded Jupyter notebook, click on 'SoundWave_FFT.ipynb' from the list of files.
+
 Text should be in a readable format. If this is not the case, click on the top box/cell and hit shift and enter at the same time.
+
 Continue through the cells, pressing shift and enter at the same time and reading the output.
+
 If there are any problems (e.g. with memory), click kernel -> restart kernel.
 
 
